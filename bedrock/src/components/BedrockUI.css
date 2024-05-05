@@ -1,0 +1,43 @@
+.bedRockDiv {
+    width: 100%;
+    height: 1100px;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 2px solid blue;
+    background-color: #292929;
+    color: white
+}
+
+.bedRockTeaxtAreaInput {
+    width: 1150px;
+    height: 400px;
+    text-align: left;
+    border: 2px solid red;
+}
+
+.bedRockTeaxtAreaDiv {
+    border: 2px solid cyan;
+}
+
+.bedRockHeaderDiv {
+    width: 100%;
+    text-align: center;
+    border: 2px solid chocolate;
+}
+
+.bedRockAskQuestion {
+    text-align: left;
+    margin-left: 12px;
+}
+
+.bedRockSubmitButton {
+    width: 200px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid lightcyan;
+}
